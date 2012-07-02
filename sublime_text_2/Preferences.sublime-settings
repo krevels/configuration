@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_size": 8,
+	"detect_slow_plugins": false,
+
+	// If enabled, will highlight any line with a caret
+    "highlight_line": true,
+    "translate_tabs_to_spaces": true
+    
+}

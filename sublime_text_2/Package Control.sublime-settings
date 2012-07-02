@@ -1,0 +1,13 @@
+{
+	"auto_upgrade_last_run": 1341233085,
+	"installed_packages":
+	[
+		"Additional PHP Snippets",
+		"CTags",
+		"DocBlockr",
+		"Git",
+		"Goto Documentation",
+		"Package Control",
+		"SublimeLinter"
+	]
+}
